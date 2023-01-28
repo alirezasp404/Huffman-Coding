@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="images">
+        <file alias="buttonBG">resources/button-background.png</file>
+        <file alias="startBG">resources/home-background.png</file>
+        <file alias="homeBG">resources/home-background.png</file>
+    </qresource>
+</RCC>
